@@ -1,0 +1,6 @@
+{
+  "name": "VÉRONA 27 — Luxury Fragrance House",
+  "description": "Contemporary luxury perfume house focused on sophisticated, long-lasting fragrances. Leave Your Signature.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
