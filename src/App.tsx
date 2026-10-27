@@ -4,6 +4,7 @@
  */
 
 import React from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import { CartProvider } from './context/CartContext';
 import { Navbar } from './components/Navbar';
 import { Hero } from './components/Hero';
@@ -78,6 +79,7 @@ export default function App() {
         <GuideModal />
         <AccountModal />
         <Toast />
+        <Analytics />
       </div>
     </CartProvider>
   );
